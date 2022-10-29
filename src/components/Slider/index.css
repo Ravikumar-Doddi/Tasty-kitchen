@@ -1,0 +1,11 @@
+.img-cont {
+  width: 85%;
+}
+.slider-img {
+  height: 30vh;
+  width: 100%;
+}
+.slider-cont {
+  display: flex;
+  justify-content: center;
+}
